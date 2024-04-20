@@ -1,5 +1,3 @@
-Sure, here's a visual representation of the proposed solution:
-
 ```
                              +-------------------+
                              |     API Server    |
